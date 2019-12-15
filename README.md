@@ -1,2 +1,2 @@
-[Demo](https://pabloplatyna.github.io/Project-8/)
+[Demo](https://pabloplatyna.github.io/project-8/)
 "# project-8" 
