@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Project-7/static/js/main.662945f4.chunk.js",
+    "main.js.map": "/Project-7/static/js/main.662945f4.chunk.js.map",
+    "runtime-main.js": "/Project-7/static/js/runtime-main.557bb788.js",
+    "runtime-main.js.map": "/Project-7/static/js/runtime-main.557bb788.js.map",
+    "static/js/2.6c710b1a.chunk.js": "/Project-7/static/js/2.6c710b1a.chunk.js",
+    "static/js/2.6c710b1a.chunk.js.map": "/Project-7/static/js/2.6c710b1a.chunk.js.map",
+    "index.html": "/Project-7/index.html",
+    "precache-manifest.fd376821732ec559176f216656cdf36e.js": "/Project-7/precache-manifest.fd376821732ec559176f216656cdf36e.js",
+    "service-worker.js": "/Project-7/service-worker.js",
+    "static/js/2.6c710b1a.chunk.js.LICENSE": "/Project-7/static/js/2.6c710b1a.chunk.js.LICENSE",
+    "static/media/Drone@2x.png": "/Project-7/static/media/Drone@2x.acf566a7.png",
+    "static/media/Layer_2.png": "/Project-7/static/media/Layer_2.b1676a15.png",
+    "static/media/Layer_3.png": "/Project-7/static/media/Layer_3.01faf6e5.png",
+    "static/media/Layer_4.png": "/Project-7/static/media/Layer_4.50d29ca6.png",
+    "static/media/Layer_5_eb_pattern.png": "/Project-7/static/media/Layer_5_eb_pattern.757b3041.png",
+    "static/media/drone_1.png": "/Project-7/static/media/drone_1.4007bbec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.557bb788.js",
+    "static/js/2.6c710b1a.chunk.js",
+    "static/js/main.662945f4.chunk.js"
+  ]
+}
